@@ -65,11 +65,10 @@ Created during Week 12 of Penn Coding Bootcamp. The goal is to create an Amazon-
 
 ## Demo Videos
 
-* BamazonCustomer.js (https://www.youtube.com/watch?v=p-QBusgtjKE)
+* BamazonCustomer.js 
 
-* BamazonManager.js (https://www.youtube.com/watch?v=Go828nrwaLY)
-
-* ExecutiveManager.js (https://www.youtube.com/watch?v=W6P2YpXGDq8)
+* BamazonManager.js 
+* ExecutiveManager.js 
 
 ## Technologies used
 - Node.js

@@ -14,14 +14,14 @@ CREATE TABLE Products(
 select * from Products;
 
 INSERT INTO Products(ProductName,DepartmentName,Price,StockQuantity)
-VALUES ("Uncharted 4","ENTERTAINMENT",49.95,150),
-    ("DOOM","ENTERTAINMENT",59.99,200),
-    ("Crate of Spam","GROCERY",24.50,50),
-    ("Cool Shades","CLOTHING",75.00,5),
-    ("Worn Denim Jeans","CLOTHING",54.25,35),
-    ("Survival Towel","SPORTS & OUTDOORS",42.42,42),
-    ("Bill and Ted's Excellent Adventure","ENTERTAINMENT",15.00,25),
-    ("Mad Max: Fury Road","ENTERTAINMENT",25.50,57),
+VALUES ("Red Dead Redemption 3","ENTERTAINMENT",49.95,150),
+    ("Assassins Creed Detroit","ENTERTAINMENT",59.99,200),
+    ("Imitation Salmon","GROCERY",24.50,50),
+    ("South American Aagle Jeans","CLOTHING",75.00,5),
+    ("ROLO hoodie","CLOTHING",54.25,35),
+    ("Da South Face Jacket","SPORTS & OUTDOORS",42.42,42),
+    ("Hackerman - The True Story","ENTERTAINMENT",15.00,25),
+    ("Shaolin Soccer","ENTERTAINMENT",25.50,57),
     ("Monopoly","ENTERTAINMENT",30.50,35),
     ("Yahtzee","ENTERTAINMENT",19.95,23);
 
