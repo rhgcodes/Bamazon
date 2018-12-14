@@ -16,12 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StefanieDing/BAMazon.git"
+    "url": "git+https://github.com/rhgcodes/bamazon+git"
   },
-  "author": "Stefanie Ding",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/StefanieDing/BAMazon/issues"
-  },
-  "homepage": "https://github.com/StefanieDing/BAMazon#readme"
+  "author": "Ruben Galleguillos",
+  "license": "MIT",
+  "homepage": "https://github.com/rhgcodes/bamazon"
 }
