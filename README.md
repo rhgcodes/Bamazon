@@ -50,7 +50,7 @@ Created during Week 12 of Penn Coding Bootcamp. The goal is to create an Amazon-
 
 -----------------------
 
-3. `BamazonExecutive.js`
+3. `BamazonSupervisor.js`
 
     * Starts with a menu:
         * View Product Sales by Department
@@ -65,10 +65,11 @@ Created during Week 12 of Penn Coding Bootcamp. The goal is to create an Amazon-
 
 ## Demo Videos
 
-* BamazonCustomer.js 
+* BamazonCustomer.js (https://www.youtube.com/watch?v=ppOD65CnJiI)
 
-* BamazonManager.js 
-* ExecutiveManager.js 
+* BamazonManager.js (https://youtu.be/SXWmbrez_7M)
+
+* BamazonSupervisor.js (https://youtu.be/Oz8hITcr7o0)
 
 ## Technologies used
 - Node.js
