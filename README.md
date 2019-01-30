@@ -1,6 +1,6 @@
 # BAMazon
 
-Created during Week 12 of Penn Coding Bootcamp. The goal is to create an Amazon-like store front using Node.js and MySQL.
+An Amazon-like storefront created using MySQL.
 
 ## Getting Started
 
