@@ -20,7 +20,7 @@
 
 ### <a name="what-it-does"></a> What Each JavaScript Does
 
-### <a name="what-it-does"></a> 1. Customer `BamazonCustomer.js`
+1. `BamazonCustomer.js`
 
     * Prints the products in the store.
 
