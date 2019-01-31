@@ -1,9 +1,16 @@
 # BAMazon
 
-Created during Week 12 of Penn Coding Bootcamp. The goal is to create an Amazon-like store front using Node.js and MySQL.
+## Table of contents
+  * [About this Project](#about-this-project)
+  * [Getting started](#contribute)
+    * [What Each JavaScript Does](#what-it-does)
 
-## Getting Started
+  * [Running LIRI from the command line](#command-reference)
 
+## <a name="about-this-project"></a> About this project
+<p>BAMazon is an Amazon-like storefront created using MySQL. </p>
+
+## <a name="contribute"></a> Getting started
 - Clone repo.
 - Run command in Terminal or Gitbash 'npm install'
 - Run command depending which mode you would like to be on:
@@ -12,7 +19,7 @@ Created during Week 12 of Penn Coding Bootcamp. The goal is to create an Amazon-
     * Exective - 'npm run exective'
 - Run 'ctrl + c' to exit each mode
 
-### What Each JavaScript Does
+### <a name="what-it-does"></a> What Each JavaScript Does
 
 1. `BamazonCustomer.js`
 
