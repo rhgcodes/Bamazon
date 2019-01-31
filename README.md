@@ -4,7 +4,6 @@
   * [About this Project](#about-this-project)
   * [Getting started](#contribute)
     * [What Each JavaScript Does](#what-it-does)
-
   * [Running LIRI from the command line](#command-reference)
 
 ## <a name="about-this-project"></a> About this project
@@ -21,7 +20,7 @@
 
 ### <a name="what-it-does"></a> What Each JavaScript Does
 
-1. `BamazonCustomer.js`
+### <a name="what-it-does"></a> 1. Customer `BamazonCustomer.js`
 
     * Prints the products in the store.
 
