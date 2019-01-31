@@ -2,14 +2,25 @@
 
 ## Table of contents
   * [About this Project](#about-this-project)
+  * [Prerequisites](#prerequisites)
   * [Getting started](#contribute)
     * [What Each JavaScript Does](#what-it-does)
-  * [Running LIRI from the command line](#command-reference)
+  * [Demo Videos](#demos)
+  * [Technologies used to create app](#technologies-used)
+  * [Author](#author)
+  
 
 ## <a name="about-this-project"></a> About this project
+
 <p>BAMazon is an Amazon-like storefront created using MySQL. </p>
 
+## <a name="prerequisites"></a> Prerequisites
+
+- Node.js - Download the latest version of Node https://nodejs.org/en/
+- Create a MYSQL database called 'Bamazon', reference schema.sql
+
 ## <a name="contribute"></a> Getting started
+
 - Clone repo.
 - Run command in Terminal or Gitbash 'npm install'
 - Run command depending which mode you would like to be on:
@@ -69,7 +80,7 @@
 
     * If the manager selects `End Session`, it ends the session and doesn't go back to the menu.
 
-## Demo Videos
+### <a name="demos"></a> Demo Videos
 
 * BamazonCustomer.js (https://www.youtube.com/watch?v=ppOD65CnJiI)
 
@@ -77,24 +88,15 @@
 
 * BamazonSupervisor.js (https://youtu.be/Oz8hITcr7o0)
 
-## Technologies used
-- Node.js
-- Inquire NPM Package (https://www.npmjs.com/package/inquirer)
-- MYSQL NPM Package (https://www.npmjs.com/package/mysql)
+## <a name="technologies-used"></a> Technologies used to build app
 
-### Prerequisites
+  * VSC
+  * Terminal/Git
+  * JavaScript
+  * Node.js 
+  * Inquirer NPM Package (https://www.npmjs.com/package/inquirer)
+  * MySQL Workbench
 
-```
-- Node.js - Download the latest version of Node https://nodejs.org/en/
-- Create a MYSQL database called 'Bamazon', reference schema.sql
-```
-
-## Built With
-
-* VSC - Text Editor
-* MySQLWorkbench
-* Terminal/Gitbash
-
-## Author
+## <a name="author"></a> Author
 
 * Ruben Galleguillos - *JS/MySQL/Node.js* - [Ruben Galleguillos](https://github.com/rhgcodes)
